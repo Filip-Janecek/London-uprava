@@ -149,7 +149,7 @@ body {
 
 .site-head-left {
     position: relative;
-        z-index: 100;
+    z-index: 100;
     display: flex;
     align-items: center;
     margin-right: 10px;
@@ -212,6 +212,7 @@ body {
     display: block;
     margin-top: 2px;
     width: auto;
+    height: 70px;
     /* height: 28px;*/
     /*height: 56px;*/
 
