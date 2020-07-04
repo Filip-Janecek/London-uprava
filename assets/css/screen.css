@@ -134,7 +134,7 @@ body {
 /* Site Navigation
 /* ---------------------------------------------------------- */
 
-.site-head {
+/*.site-head {
     position: relative;
     z-index: 300;
     margin-top: -10px;
@@ -199,7 +199,7 @@ body {
     color: var(--color-base);
     font-size: 2.1rem;
     line-height: 10em; /*1em*/
-    font-weight: 700;
+  /*  font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -215,8 +215,8 @@ body {
     height: 70px;
     /* height: 28px;*/
     /*height: 56px;*/
-
-}
+/*
+}*/
 
 .site-head-right {
     position: relative;
